@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksooyeun4368@gmail.com)](mailto:ksooyeun4368@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sue_4368/)](https://www.instagram.com/sue_4368/) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/ksooyeun2020)](https://blog.naver.com/ksooyeun2020)
+[![Blog Badge](http://img.shields.io/badge/-Blog2-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/ksooyeun)](https://blog.naver.com/ksooyeun)
 
 <br>
 
