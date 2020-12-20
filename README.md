@@ -17,6 +17,7 @@
 - (20.08 - ) IT-KOREA/ Comprehensive web application development
 
 ## Interest 👀
+- Health care
 - Sports Education
 - Programming
 - IT
