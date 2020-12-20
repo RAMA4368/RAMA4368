@@ -10,7 +10,7 @@
 <br>
 
 ## My experience 🤹‍♀️
-- (14.02 - 19.02) Sunchonhyang University School of Sports Medicine
+- (14.02 - 19.02) Soonchunhyang University School of Sports Medicine
 - (15.08 - 16.01) KOICA 2nd Volunteer group member(kucss)
 - (17.02 - 18.02) President of the university women's basketball club
 - (18.07 - 20.07) Swimming Instructor
