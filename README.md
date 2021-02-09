@@ -18,7 +18,6 @@
 
 ## Interest 👀
 - Health care
-- Sports Education
 - Programming
 - IT
 - Startups
